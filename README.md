@@ -2,7 +2,7 @@
 
 This example application created by [getstream.io](https://getstream.io/?ref=github_stream_react_example) teaches you how to to build an Instagram style application with activity streams and newsfeeds.
 
-Visit [cabin.getstream.io](http://cabin.getstream.io/) for an overview of all 8 tutorials and a [live demo](http://cabin.getstream.io/demo). If you enjoy this tutorial please star this repo.
+Visit [cabin.getstream.io](http://cabin.getstream.io/) for an overview of all 8 tutorials and a [live demo](http://cabin.getstream.io/demo). If you enjoy this tutorial, please star this repo.
 
 > Note: Cabin requires Node v8.x or above.
 
